@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Eric Lee</h1>
-<h3 align="center">A computer science student</h3>
 
 - 🔭 I’m currently working on **my personal website**
 
